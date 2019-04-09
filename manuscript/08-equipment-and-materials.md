@@ -1,12 +1,10 @@
-## Equipment
+# Equipment & Materials
 
 - 1-2 60”+ 4k Display w/ HDMI. HDMI is the standard but we want to have a bin of adapters we’re likely to encounter. I think SMART displays are overkill as we typically want to display our workstation screens.
 - Personal workstations.
 - Dedicated environments or cloud accounts to be able to create environments.
 - 27” class monitors for pairing. Again HDMI plus the bin of adapters.
 - 4x 4’x8’ Dry Erase Board
-
-## Materials
 
 I've created an [Amazon Shopping List](https://www.amazon.com/gp/registry/wishlist/3GAGNGF3OD33I/ref=cm_wl_huc_title) with all the items needed below. You will have to adjust 
 the quantity of each item in your cart.
