@@ -1,4 +1,4 @@
-# Equipment & Materials
+# Appendix 1: Equipment & Materials
 
 - 1-2 60”+ 4k Display w/ HDMI. HDMI is the standard but we want to have a bin of adapters we’re likely to encounter. I think SMART displays are overkill as we typically want to display our workstation screens.
 - Personal workstations.
