@@ -1,4 +1,4 @@
-## Community
+# Community
 
 - Slack channel
 - Blog
