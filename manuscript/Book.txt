@@ -1,1 +1,3 @@
 chapter1.md
+- concepts.md
+principles.md
