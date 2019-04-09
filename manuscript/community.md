@@ -1,7 +1,8 @@
 ## Community
 
-Slack Channel
-GitHub Repository
-Other Books
-Coaching Gig Board
-Conferences, Meetups, and Other Events
+- Slack channel
+- Blog
+- GitHub repository
+- Other books (Joel & Dion)
+- Coaching Gig Board
+- Conferences, Meetups, Events

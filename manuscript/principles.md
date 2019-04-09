@@ -30,11 +30,11 @@ Team members must be OK with failure as an option.
 
 Product thinking as a manageable entry to systems thinking. Products differ from projects in many ways. Three of the more important differentiators are (1) focus on a user, (2) team continuity, and, (3) how they are measured.
 
-### Context Rich Environment
+### Context Rich Environments
 
-Better context yields better content.
+Better context yields better content. A big part of the dojo is space and the visuals we plaster the walls with.
 
-
+**In the dojo we place a high importance on the visibility of system status.** This means we can see work-in-progress, maps and our journeys through these maps, metrics dashboards, and the overall compass of the team.
 
 ### Dynamic Collaboration
 
