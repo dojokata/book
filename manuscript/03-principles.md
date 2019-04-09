@@ -2,9 +2,11 @@
 
 ## First, principles.
 
-Too often we start with tools. The derisive terms "Buzzword Bingo" and "Resume Driven Development" were coined to describe this phenomena and tendency in our line of work. The subtext is that tools come and go and won't save your lunch.
+Too often we start with tools. Fear of missing out (FOMO) probably has a lot to do with this. What if I miss the Kubernetes boat? What if I'm not keeping up with my peers? 
 
-When principles drive our choice of practices, practices stick. When practices stick, we get really good at picking and mastering the right tools. Better to act from first principles. 
+The derisive terms "Buzzword Bingo" and "Resume Driven Development" were coined to describe this phenomena and tendency in our line of work. The subtext is that tools come and go and won't save your lunch.
+
+Overall I think starting with tools is the wrong place to, well, start. I've had much better luck starting with first principles. When principles drive our choice of practices, practices stick. When practices stick, we get really good at picking and mastering the right tools. Better to act from first principles. 
 
 ## What's a principle?
 
@@ -12,7 +14,7 @@ When principles drive our choice of practices, practices stick. When practices s
 
 When things get conceptual, I reach for examples. Bret Victor gives us a nice example of principles in his talk, [Inventing on Principle](https://www.notion.so/d959a994-4c12-46a9-8cb6-ab6affef11cf). "Creators need an immediate connection to what they're creating," he asserts as his principle. He goes on to demonstrate a gaming IDE where programmatic changes are seen side-by-side with gameplay mechanics. It is *very* cool. His core message is about the role that principles play in the act of creation. His principle, for example, helps him anchor on and realize a fundamental value: instant feedback.
 
-## The Dojo Principles
+## Ten Principles to Start With
 
 It's tempting to describe the Dojo model in static terms, saying, "here are a bunch of workflow diagrams, figures, and text and here is the binder that contains it all now enjoy your certificate of achievement." However that outcome is precisely *not* my goal. 
 
