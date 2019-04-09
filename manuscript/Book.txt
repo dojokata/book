@@ -4,6 +4,7 @@
 04-team.md
 05-space.md
 05-playbook.md
+05.1-playbook-core.md
 06-challenge-themes.md
 07-equipment-material.md
 08-community.md
