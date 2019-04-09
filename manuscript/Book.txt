@@ -1,7 +1,6 @@
 enter-the-dojo.md
 concepts.md
 principles.md
-principles/psychological-safety.md
 team.md
 playbook.md
 challenge-themes.md

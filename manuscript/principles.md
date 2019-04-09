@@ -1,4 +1,5 @@
 # Principles
+
 ## First, principles.
 
 Too often we start with tools. The derisive terms "Buzzword Bingo" and "Resume Driven Development" have been coined to describe this phenomena and tendency in our line of work. At the risk of over-explaining, the subtext is that tools come and go and won't save your lunch.
@@ -21,20 +22,32 @@ It's tempting to describe the Dojo model in static terms, saying, "here are a bu
 
 There are several core principles that guide the inception and evolution of a successful Dojo challenge or program. I use these principles to evolve models large and small, not the other way around. 
 
-[Psychological Safety](https://www.notion.so/8e52d373-6b32-4dcb-a672-323e605274d4) - team members must be OK with failure as an option.
+### Psychological Safety
+Team members must be OK with failure as an option.
 
-[Product Mindset](https://www.notion.so/1967ad47-5680-4bc2-a5bb-ab053fec58d5) - Product thinking as a manageable entry to systems thinking.
+### Product Mindset
+Product thinking as a manageable entry to systems thinking.
 
-[Context Rich Environments](https://www.notion.so/651d3e41-626f-4951-9687-e59954ffa963) - Better context yields better content.
+### Context Rich Environment
+Better context yields better content.
 
-[Dynamic Collaboration](https://www.notion.so/2e3d3360-ad52-455f-8d5d-8073fa082c3d) - Beyond pairing: situational, purposeful collaboration across roles.
+### Dynamic Collaboration
+Beyond pairing: situational, purposeful collaboration across roles.
 
-[Planning With Feedback](https://www.notion.so/08a8b9af-8718-4398-98bf-669114c0a188) - Feedback-driven planning loops: build, measure, learn.
+### Planning With Feedback
+Feedback-driven planning loops: build, measure, learn.
 
-[Learning Forward](https://www.notion.so/12d1645c-7c10-4db4-b5c5-0ed329540c64) - Dial back delivery to amplify learning. Progress is a side-effect of progression.
+### Learning Forward
+Dial back delivery to amplify learning. Progress is a side-effect of progression.
 
-[Real Work](https://www.notion.so/50f0c50b-a0c1-4cce-beb3-bea3041fe4db) - working through real problems, not simulations or contrived examples, makes for a better learning experience.
+### Real Work 
+Working through real problems, not simulations or contrived examples, makes for a better learning experience.
 
-[Balanced Teams](https://www.notion.so/8d0e3eb3-3407-4e5b-a4ea-7fad3dddf00e) - T-shaped people building T-shaped teams.
+### Balanced Teams
+T-shaped people building T-shaped teams.
 
-[Committed & Engaged](https://www.notion.so/4037aa8d-6aea-4eba-bae4-09e319ad583a) - You get out of a Dojo challenge what you put into it.
+### Committed & Engaged
+You get out of a Dojo challenge what you put into it.
+
+### Your Principles Here
+These are just a starting point. You'll likely discovery principles that work better in your situation.
