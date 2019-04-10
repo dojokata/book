@@ -10,7 +10,7 @@ T-shaped teams. Small teams.
 
 The dojo program leaders working with the team leaders.
 
-## Coaches
+## Coaches {#coaches}
 
 - Player/Coaches.
 - Disposition: action-biased; "show, don't tell."; teachers that do.

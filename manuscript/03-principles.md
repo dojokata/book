@@ -1,6 +1,6 @@
 # Principles
 
-### First, principles.
+## First, principles.
 
 Too often we start with tools. Fear of missing out (FOMO) probably has a lot to do with this. What if I miss the Kubernetes boat? What if I'm not keeping up with my peers? I am a dinosaur.
 
@@ -8,7 +8,7 @@ The derisive terms "Buzzword Bingo" and "Resume Driven Development" were coined 
 
 Overall I think starting with tools is the wrong place to, well, start. I've had much better luck starting with first principles. When principles drive our choice of practices, practices stick. When practices stick, we get really good at picking and mastering the right tools. Better to act from first principles. 
 
-### What's a principle?
+## What's a principle?
 
 > Principles are guidelines for human conduct that are proven to have enduring, permanent value. - Stephen Covey
 
