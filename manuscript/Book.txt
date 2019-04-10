@@ -1,4 +1,5 @@
-00-intro.md
+frontispiece.md
+00-introduction.md
 01-enter-the-dojo.md
 02-concepts.md
 03-principles.md
@@ -12,4 +13,4 @@
 07.4-playbook-leadership.md
 08-common-scenarios.md
 09-resources.md
-10-refernce.md
+10-reference.md
