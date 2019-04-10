@@ -2,6 +2,8 @@
 
 Certain plots play out time and again. Here we find common mission configurations popular configurations to dojo challenges for recurring problems.
 
+Dojo stories from the front. Ways we've applied this.
+
 Goldratt calls this "pop-cons" for popular configurations.
 
 ## Product Development
