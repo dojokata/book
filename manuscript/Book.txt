@@ -12,5 +12,5 @@ frontispiece.md
 07.3-playbook-program.md
 07.4-playbook-leadership.md
 08-common-scenarios.md
-09-resources.md
-10-reference.md
+backmatter.txt
+10-appendices.md

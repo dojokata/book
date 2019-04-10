@@ -1,6 +1,8 @@
-{backmatter}
+-# Appendices
 
-# Resources 
+# Common Metrics
+
+# Community
 
 - Slack channel
 - Blog
@@ -10,4 +12,4 @@
 - Conferences, Meetups, Events
 - [Supplies Amazon Wish List](https://www.amazon.com/gp/registry/wishlist/3GAGNGF3OD33I/ref=cm_wl_huc_title)
 
-## Community
+# Glossary
