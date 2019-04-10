@@ -1,3 +1,4 @@
+00-intro.md
 01-enter-the-dojo.md
 02-concepts.md
 03-principles.md
