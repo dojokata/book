@@ -1,7 +1,7 @@
 01-enter-the-dojo.md
 02-concepts.md
 03-principles.md
-04-team.md
+04-people.md
 05-space-and-time.md
 06-playbook.md
 06.1-playbook-core.md

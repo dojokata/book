@@ -1,5 +1,0 @@
-# Team
-
-## Coach
-
-## Supporting Community
