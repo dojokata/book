@@ -1,5 +1,13 @@
 # Enter the Dojo
 
+THIS IS THREE BOOKS AND ONE SCREEN:
+
+Coaching Manual - aka the Dungeon Master's Guide + Screen
+Leadership Checklist - aka the Dungeon Master's Screen
+The Dojo Standard - aka the Player's Guide
+The Dojo Playbook - aka the Monster Manual, a binder/index
+
+
 “We are uncovering new ways of working by doing it,” so begins the Manifesto for Agile Software Development, now going on two decades old. The declaration goes on to define several attributes that teams might focus on, but it’s this first part, the part that hints at evolving workflow by doing and reflecting on that workflow, that’s at the core of the dojo model.
 
 A Dojo is a six week deep dive where a team sets balanced goals, identifies success metrics, and iterates rapidly, sharing their real work and learnings all while supported by dedicated, expert coaches.
