@@ -49,3 +49,7 @@ The larger community supporting a challenge team. Supporters come from several s
 aka *Sprint, Cadence*
 
 Different than a Scrum sprint: much less ceremonious.
+
+# Legal
+
+Copyright, ISBN, etc.
