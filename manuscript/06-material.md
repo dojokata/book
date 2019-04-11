@@ -22,7 +22,7 @@ There is an [Amazon Wish List](https://www.amazon.com/gp/registry/wishlist/3GAGN
 
 Be considerate of your remote team members! If you have remote team members, you'll want an instance of your collaboration/meeting app up at all times. Consider using someone's Persnal Room ID for ease of setup.
 
-If acquiring these resources is challenging in this environment, we should frontload sourcing.
+If acquiring these resources is challenging in your environment, we should frontload sourcing.
 
 ## Remote
 

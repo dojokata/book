@@ -2,6 +2,14 @@
 
 # Common Metrics
 
+- Team Sentiment - @Ed one of the more successful outcomes is that teams can come out more cohesive.
+- Product NPS
+- Cycle Time
+- MTTR
+- SQALE (Directional)
+- Technical Metrics - Instability, Complexity, etc.
+- Commits / Day
+
 # Community
 
 - Slack channel
