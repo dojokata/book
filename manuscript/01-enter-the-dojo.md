@@ -2,8 +2,6 @@
 
 -# Enter the Dojo
 
-“We are uncovering new ways of working by doing it,” so begins the Manifesto for Agile Software Development, now going on two decades old. The declaration goes on to define several attributes that teams might focus on, but it’s this first part, the part that hints at evolving workflow by doing and reflecting on that workflow, that’s at the core of the dojo model.
-
 THIS IS THREE BOOKS AND ONE SCREEN:
 
 Coaching Manual - aka the Dungeon Master's Guide + Screen
