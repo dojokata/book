@@ -2,4 +2,4 @@
 
 {frontmatter}
 
-!(images/japanese-ken-sword-met.jpeg)
+![Ken and Kata - Iterations](images/japanese-ken-sword-met.jpeg)
