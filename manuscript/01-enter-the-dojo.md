@@ -2,46 +2,37 @@
 
 -# Enter the Dojo
 
-THIS IS THREE BOOKS AND ONE SCREEN:
+A dojo a space for immersive learning. A team enters the dojo for a period of time, usually six weeks, is paired with skilled coaches and pursues balanced goals, identifies success metrics, and iterates rapidly, sharing their real work and learnings.
 
-Coaching Manual - aka the Dungeon Master's Guide + Screen
-Leadership Checklist - aka the Dungeon Master's Screen
-The Dojo Standard - aka the Player's Guide
-The Dojo Playbook - aka the Monster Manual, a binder/index
+That's a lot to unpack, so let's do that step-by-step.
 
-# What's a dojo?
-
-A Dojo is a six week deep dive where a team sets balanced goals, identifies success metrics, and iterates rapidly, sharing their real work and learnings all while supported by dedicated, expert coaches.
-
-That's a lot to unpack, so let's do that step-by-step:
-
-- A Dojo challenge takes a whole team through a 6-week period of time.
-- During this time prioritize learning over delivery predictability.
-- The team iterates twice a week.
-- The team sets learning goals that balance various product dimensions (viability, desirability, feasibility, sustainability, etc.)
-- The team is supported by an expert in what they're trying to learn. An expert that brings strong coaching skills to the challenge.
+Dojo challenge takes a whole product development team through a 6-week challenge where they slow down delivery but work thoughtfully through a product impact while accumulating new skills. In a challenge the team iterates very quickly, twice a week. The team sets learning goals that balance various product dimensions (viability, desirability, feasibility, sustainability, et. al.). During the challenge the team collaborates with one or more expert player coaches who has mastery of the skills the team would like to learn.
 
 #### Disambiguation
 
-For our purposes Dojo Kata means a model for developing a Kaizen culture at a team level.
+For our purposes dojo simply means a model for developing a learning culture, team by team.
 
-There are many overloaded terms in technology, service and component, to name a couple obvious ones. I'm afraid Dojo and Kata are about to fall into this bucket.
+There are many overloaded terms in technology, service and component, to name a couple obvious ones. I'm afraid Dojo and Kata are about to fall into the same bucket.
 
-A coding dojo is a well-established concept in which a group of developers will come together to practice their coding chops. A variant of this is [Coderetreat](https://www.notion.so/d01f7f4c-f3a2-448b-a545-58885a22d6a5) - where developers follow a series of simple rules to explore problem solving socially and with constraints. While coding dojos like this are valuable from a skills development perspective, they tend to focus on a single role or discipline rather than the whole. 
+A coding dojo is a well-established concept in which a group of developers will come together to practice their coding chops. A variant of this is [Coderetreat](https://www.notion.so/d01f7f4c-f3a2-448b-a545-58885a22d6a5) - where developers follow a series of simple rules to explore problem solving socially and with constraints. While coding dojos like this are valuable from a skills development perspective, they tend to focus on a single role such as engineer rather than the whole. They also don't incorporate a team's real work, which we'll see is an important quality in the dojo we describe.
 
-A kata, literally *form* in Japanese, is another concept from the world of programming. A coding kata is something you practice over and over until it becomes rote. There are many examples of Katas often set to electronic music, often to dubstep. Again: valuable but limited to development skills.
+A kata, literally *form* in Japanese, is another concept from the world of programming. A coding kata is something you practice over and over until it becomes rote. There are many examples of Katas often set to electronic music, often to dubstep. Again: valuable but limited to technical skills.
 
-If these terms bother you, you should feel free to call your dojo a space mission or program, accelerator, or something cultural-specific. I use the term dojo because they're becoming a thing in the industry, not out of any particular affinity for martial arts.
+If these terms bother you, you should feel free to call your dojo a space mission or program, accelerator, or something cultural-specific. I use the term dojo because they're known in the industry, not out of any particular affinity for martial arts.
 
 ## What makes dojos work?
 
 Let's start with doesn't work and why. Training workshops, especially the 2-day variety, help build awareness and basic capability, but they fail when attendees go back to their home teams and are confronted with the usual tyranny of the urgent. It's hard to place new knowledge into practice, when you're overcome by the status quo.
 
-Focus on process and utlization metrics doesn't work. Learning is job #1.
+Focus on process and utlization metrics gets in the way of . Learning is job #1.
 
 Energizing workplace.
 
-## Why you should care?
+Teams level up together instead of relying on one or two heroes or ringers.
+
+Ultimately it's the people in the dojo and a dojo challenge that determine success. Is your leadership behind the effort and involved? Are your coaches capable and collaborating elbow to elbow with the teams? Is the team commited, engaged, and curious during the period of their challenge?
+
+## Why might you care?
 
 2x teams not 10x developers. Directionally measurable improvement. Learning to improve.
 
@@ -53,19 +44,15 @@ It's a more effective way to engage coaches.
 
 Coaches like it because variables/noise that interrupt coaching are controlled/is filtered.
 
-## Where does the practice come from?
+## Where does the idea and practice come from?
 
 Dojo is a borrowed term from Japanese meaning "the place of the way." In martial arts, Dojo is a practice space, a place for learning. Regardless of how you feel about the metaphor, the term translates to our purpose well enough.
 
-The Dojo model started and gained traction at retail giant Target. They still have [their Dojo up and running](#) and many people have toured their rather impressive facility. 
+The Dojo model started and gained traction at retail giant Target. They still have [their Dojo up and running](https://dojo.target.com/). Many people have toured their rather impressive facility. 
 
-In the early days of the Target Dojo, I was fortunate to serve as a Head Coach. Much of what you're about to read comes from the many experiments and learnings we had during this time. I was hired to help Target scale their Dojo to 10 concurrent teams. My colleague, Joel Tosi, and I adapted what we learned from our mentor, [David Hussman](https://www.notion.so/0c18b781-9544-4f09-9866-b3c29a0673ba), to help structure Dojo challenges and figure out how scale the program. As coaches we brought a lot of experience and ideas to the table, and, with the collaboration of a great internal team at Target, what we now think of as a Dojo was born.
+In the early days of the Target Dojo, I was fortunate to consult with their program as a head coach. Much of what you're about to read comes from the many experiments and learnings from this time. I was hired to help Target scale their Dojo to 10 concurrent teams. My colleague, Joel Tosi, and I adapted what we learned from our shared mentor, [David Hussman](https://www.google.com/search?q=david+hussman&pws=0&gl=us&gws_rd=cr), to help structure Target's dojo program, their approach to coaching, and figuring out how scale the program. As coaches we brought a lot of experience and ideas to the table, and, with the collaboration of a seriously incredible team at Target, what we now think of as a dojo took shape and grew.
 
-INSPIRATION SECTION? I like to apply ideas from Kaizen culture and The Toyota Way. Many ideas in here and a lot of the practice tracks very closely with this and other elements of Lean thinking.
-
-By most measures the Target Dojo is a success. It's not often you see programs at scale that focus on learning take hold in the enterprise or anywhere for that matter. 
-
-Since my time there, I have consulted with several companies on building similar programs. After many repetitions, I've converged on a set of principles, a playbook, and a few challenge themes that seem to repeat themselves across Dojos Programs and Dojo Challenges. 
+Since this time, I've consulted with several Fortune 500 companies on building similar programs. After many repetitions, a small community of coaches are converging on a set of principles, a playbook, and common scenarios. Now seems like the time to begin documenting this, as the approach gains popularity and a community begins to grow. 
 
 ## Who is this book written for?
 
@@ -79,8 +66,11 @@ It's for teams. It's for coaches. It's for people sick of overly prescriptive pr
 
 ## What motivated you to write this book?
 
-This resource is meant to be a living document. My intent is to share ideas on how you might create and operate your own Dojos. After reading this book and engaging with other practitioners in the community, there is no reason (outside of corporate obstacles) you shouldn't be able to pop up a dojo challenge for your own team.
-
-Some of my motivations are selfish. I coach and consult on Dojo programs at very large companies these days. I'd like for that seem less arbitrary. It is not arbitrary. It only seems that way because it's in my head. The ideas presented here are grounded in a lots of experimentation and practice and time. The only way to scale and grow this thing is to document POV over time.
+This book is meant to be a living document. My intent is to share ideas on how you might create and operate your own Dojos. After reading this book and engaging with other practitioners in the community, there is no reason (outside of corporate obstacles) you shouldn't be able to pop up a dojo challenge for your own team.
 
 ## How should I use this book?
+
+TL;DR - Any way you want!
+
+This section, "Enter the Dojo," describes the core elements of the dojo, the basics. If you're new to the concept, I'd start here so you have a grounding in the terminology and foundational elements of a successful dojo.
+
