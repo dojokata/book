@@ -10,9 +10,7 @@ Dojo challenge takes a whole product development team through a 6-week challenge
 
 #### Disambiguation
 
-For our purposes dojo simply means a model for developing a learning culture, team by team.
-
-There are many overloaded terms in technology, service and component, to name a couple obvious ones. I'm afraid Dojo and Kata are about to fall into the same bucket.
+There are many overloaded terms in technology, service and component, to name a few. I'm afraid dojo is about to fall into the same bucket. For our purposes dojo means a model for developing a learning culture, team by team. 
 
 A coding dojo is a well-established concept in which a group of developers will come together to practice their coding chops. A variant of this is [Coderetreat](https://www.notion.so/d01f7f4c-f3a2-448b-a545-58885a22d6a5) - where developers follow a series of simple rules to explore problem solving socially and with constraints. While coding dojos like this are valuable from a skills development perspective, they tend to focus on a single role such as engineer rather than the whole. They also don't incorporate a team's real work, which we'll see is an important quality in the dojo we describe.
 
@@ -46,9 +44,9 @@ Coaches like it because variables/noise that interrupt coaching are controlled/i
 
 ## Where does the idea and practice come from?
 
-Dojo is a borrowed term from Japanese meaning "the place of the way." In martial arts, Dojo is a practice space, a place for learning. Regardless of how you feel about the metaphor, the term translates to our purpose well enough.
+Dojo is a borrowed term from Japanese meaning "the place of the way." In martial arts, Dojo is a practice space, a place for learning. 
 
-The Dojo model started and gained traction at retail giant Target. They still have [their Dojo up and running](https://dojo.target.com/). Many people have toured their rather impressive facility. 
+The Dojo model, as it's described here, started and gained traction at retail giant Target. They still have [their Dojo up and running](https://dojo.target.com/). Many people have toured their rather impressive facility. 
 
 In the early days of the Target Dojo, I was fortunate to consult with their program as a head coach. Much of what you're about to read comes from the many experiments and learnings from this time. I was hired to help Target scale their Dojo to 10 concurrent teams. My colleague, Joel Tosi, and I adapted what we learned from our shared mentor, [David Hussman](https://www.google.com/search?q=david+hussman&pws=0&gl=us&gws_rd=cr), to help structure Target's dojo program, their approach to coaching, and figuring out how scale the program. As coaches we brought a lot of experience and ideas to the table, and, with the collaboration of a seriously incredible team at Target, what we now think of as a dojo took shape and grew.
 
@@ -56,7 +54,7 @@ Since this time, I've consulted with several Fortune 500 companies on building s
 
 ## Who is this book written for?
 
-Who should benefit and how:
+This book was written for the segments in an organization that need to come together to make a dojo work:
 
 - Leaders: value of the dojo approach and how to pilot a dojo program.
 - Coaches: lays out the program so you can adapt your coaching style to the needs of the form.
