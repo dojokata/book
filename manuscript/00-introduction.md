@@ -16,3 +16,13 @@ WHO
 Before you start you need alignment from three groups: active support and involvement leadership; commitment and engagement from teams engaging in a challenge; and capable coaches who are masters in their respective domains.
 
 This book explains the benefits of the dojo model, grounding the approach a few principles and roles. It also provides a playbook that you can use to assemble a dojo program appropriate for your organization's transformation program. Our goal was to make this manual mercifully short and useful. We hope you use it as a starting point to design your own dojo program and successfuly execute challenges.
+
+I like a format of this for this section: 
+
+https://medium.com/the-mission/the-best-sales-pitch-ive-seen-all-year-7fa92afaa248
+
+1. Start with a big, undeniable change that creates stakes.
+2. Name the enemy.
+3. Tease the "Promised Land."
+4. Position capabilities as “magic” for slaying “monsters”
+5. Present your best evidence.
