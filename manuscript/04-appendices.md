@@ -2,7 +2,9 @@
 
 # Common Metrics
 
-- Team Sentiment - @Ed one of the more successful outcomes is that teams can come out more cohesive.
+Common success metrics teams might select to support learning outcomes and goals from framing. This is meant for coaches to open up a team's success measures to more quantitive evaluation. Please use these responsibly; you can't measure everything and no single measure will give you a complete picture of a dojo challenge team's success.
+
+- Team Sentiment
 - Product NPS
 - Cycle Time
 - MTTR
@@ -22,19 +24,19 @@
 
 # Glossary
 
-Start here to learn basic dojo concepts and vocabulary.
+A glossary of the vocabulary used in this book and within a dojo.
 
 #### **Challenge**
 
 aka *Mission*
 
-The 6-week period of time in which a team is in the Dojo.
+The 6-week period of time in which a team is in the dojo.
 
 #### **Intake**
 
 aka *Onboarding*
 
-A session to prepare a team before they enter the Dojo.
+A session to prepare a team before they enter the dojo.
 
 #### **Frame**
 

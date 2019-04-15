@@ -44,11 +44,11 @@ Coaches like it because variables/noise that interrupt coaching are controlled/i
 
 ## Where does the idea and practice come from?
 
-Dojo is a borrowed term from Japanese meaning "the place of the way." In martial arts, Dojo is a practice space, a place for learning. 
+Dojo is a borrowed term from Japanese meaning "the place of the way." In martial arts, a dojo is a practice space, a place for learning. 
 
-The Dojo model, as it's described here, started and gained traction at retail giant Target. They still have [their Dojo up and running](https://dojo.target.com/). Many people have toured their rather impressive facility. 
+The dojo model, as it's described here, started and gained traction at retail giant Target. They still have [their dojo up and running](https://dojo.target.com/). Many people have toured their rather impressive facility. 
 
-In the early days of the Target Dojo, I was fortunate to consult with their program as a head coach. Much of what you're about to read comes from the many experiments and learnings from this time. I was hired to help Target scale their Dojo to 10 concurrent teams. My colleague, Joel Tosi, and I adapted what we learned from our shared mentor, [David Hussman](https://www.google.com/search?q=david+hussman&pws=0&gl=us&gws_rd=cr), to help structure Target's dojo program, their approach to coaching, and figuring out how scale the program. As coaches we brought a lot of experience and ideas to the table, and, with the collaboration of a seriously incredible team at Target, what we now think of as a dojo took shape and grew.
+In the early days of the Target Dojo, I was fortunate to consult with their program as a head coach. Much of what you're about to read comes from the many experiments and learnings from this time. I was hired to help Target scale their dojo to 12 concurrent teams. My colleague, Joel Tosi, and I adapted what we learned from our shared mentor, [David Hussman](https://www.google.com/search?q=david+hussman&pws=0&gl=us&gws_rd=cr), to help structure Target's dojo program, their approach to coaching, and figuring out how scale the program. As coaches we brought a lot of experience and ideas to the table, and, with the collaboration of a seriously incredible team at Target, what we now think of as a dojo took shape and grew.
 
 Since this time, I've consulted with several Fortune 500 companies on building similar programs. After many repetitions, a small community of coaches are converging on a set of principles, a playbook, and common scenarios. Now seems like the time to begin documenting this, as the approach gains popularity and a community begins to grow. 
 
@@ -64,7 +64,7 @@ It's for teams. It's for coaches. It's for people sick of overly prescriptive pr
 
 ## What motivated you to write this book?
 
-This book is meant to be a living document. My intent is to share ideas on how you might create and operate your own Dojos. After reading this book and engaging with other practitioners in the community, there is no reason (outside of corporate obstacles) you shouldn't be able to pop up a dojo challenge for your own team.
+This book is meant to be a living document. My intent is to share ideas on how you might create and operate your own dojos. After reading this book and engaging with other practitioners in the community, there is no reason (outside of corporate obstacles) you shouldn't be able to pop up a dojo challenge for your own team.
 
 ## How should I use this book?
 
