@@ -66,9 +66,14 @@ It's for teams. It's for coaches. It's for people sick of overly prescriptive pr
 
 This book is meant to be a living document. My intent is to share ideas on how you might create and operate your own dojos. After reading this book and engaging with other practitioners in the community, there is no reason (outside of corporate obstacles) you shouldn't be able to pop up a dojo challenge for your own team.
 
-## How should I use this book?
+## How should I read this book?
 
 TL;DR - Any way you want!
 
 This section, "Enter the Dojo," describes the core elements of the dojo, the basics. If you're new to the concept, I'd start here so you have a grounding in the terminology and foundational elements of a successful dojo.
 
+Leaders should check out...
+
+Team members should check out...
+
+Coaches should check out...
