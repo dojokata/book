@@ -2,9 +2,25 @@
 
 -# Enter the Dojo
 
-A dojo a space for immersive learning. A team enters the dojo for a period of time, usually six weeks, is paired with skilled coaches and pursues balanced goals, identifies success metrics, and iterates rapidly, sharing their real work and learnings.
+A dojo is a place where teams come to develop new skills. It is a place for transformation. 
 
-That's a lot to unpack, so let's do that step-by-step.
+There are a few distinguishing traits of a dojo that make it special. 
+
+In the dojo we ...
+
+... learn new techniques grounded in reality. We do not use simulations or artificial exercises. We work on your code, your problems, and within your situation. In this way, the dojo model competes directly with classical forms of training.
+
+... we intentionally remove constraints and pressure associated with delivery and project mentality. We commit by trusting our learning will accelerate our throughput as a side-effect. We focus on mastery of skills that ensure better short-, mid-, and long-term outcomes.
+
+... we share and reflect on our learnings. By the end of our team's time in the dojo, we have a plan that balances immediacy and urgency with continuous improvement and team evolution.
+
+This is a radical proposition. We're used to agile training and certification that focuses on process. The dojo model, puts learning at the fore.
+
+A dojo challenge refers to a team's time within the dojo.
+
+A dojo a space for immersive learning. A team enters the dojo for a fixed period of time, usually six weeks, and is paired with one or more expert player coaches. We call this a "dojo challenge." On entry, a team sets of goals and success meausures, then iterates rapidly, usually twice a week, on their real backlog, sharing their learnings and reflecting on their journey along the way.
+
+There's a lot to unpack there. Let's do that step-by-step.
 
 Dojo challenge takes a whole product development team through a 6-week challenge where they slow down delivery but work thoughtfully through a product impact while accumulating new skills. In a challenge the team iterates very quickly, twice a week. The team sets learning goals that balance various product dimensions (viability, desirability, feasibility, sustainability, et. al.). During the challenge the team collaborates with one or more expert player coaches who has mastery of the skills the team would like to learn.
 
@@ -21,6 +37,8 @@ If these terms bother you, you should feel free to call your dojo a space missio
 ## What makes dojos work?
 
 Let's start with doesn't work and why. Training workshops, especially the 2-day variety, help build awareness and basic capability, but they fail when attendees go back to their home teams and are confronted with the usual tyranny of the urgent. It's hard to place new knowledge into practice, when you're overcome by the status quo.
+
+Workshops, the best ones, might get you to conscious competence but on what material? The instructor will present a sample problem that, at best, mimics the real work you do. So you build competence in a highly controlled environment. Then, after the workshop, what are your chances of applying your new skills and knowledge? Is the environment prepped for  - https://www.habitsforwellbeing.com/stages-of-learning/
 
 Focus on process and utlization metrics gets in the way of . Learning is job #1.
 
