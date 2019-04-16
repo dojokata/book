@@ -1,28 +1,17 @@
 -# Introduction
 
-“We are uncovering new ways of working by doing it,” so begins the Manifesto for Agile Software Development, now going on two decades old. The declaration goes on to define several attributes that teams might focus on, but it’s this first part, the part that hints at evolving workflow by doing and reflecting on that workflow, that’s at the core of the dojo model.
+“We are uncovering new ways of working by doing it,” so begins the [Manifesto for Agile Software Development](https://agilemanifesto.org/), now going on two decades old. The declaration goes on to define several attributes that teams might focus on, but it’s this first part, the part that hints at evolving workflow by doing and reflecting on that workflow, that’s at the core of the dojo model.
 
-OPENING
+Since 2015, a small group of people, myself included, have explored a new style of transformation, coaching, and upskilling. Transformation is a tricky word. It tends to trigger cynicism in those who have been around the block. However, there's no better word for what the dojo approach can do: take a large number of people, often in an atmosphere of uncertainty and fear, and work with them to build skills and capabilities that have a meaningful, measurable impact. Slowly, methodically, with intent: we're changing cultures from delivery, projects, and "when's it going to be done" to learning, products, and "I can't wait to see what's next."
 
-PROBLEM STATEMENT
+The popular name for this method is a "dojo." A dojo, in its essence, is about a team finding their way into continuous improvement through the act of learning by doing, sharing, and reflecting. 
 
-ALTERNATIVE TO
-Getting to better products takes investment in time, money, and attention. Most of all it takes intent, vision, and followthrough. Transformation is hard to do under the persistent wardrum of delivery. Metrics such as velocity, capacity, etc. have their place, but don't tell us how happy our customers and users our, what impact we're having on revenue or cost, or how fulfilled our teammates really are. Process is important, but it's blest used in service of better products outcomes, the creativity of our people, and the health of our enterprise.
+Getting to better products, teams, and culture requires investing in time, money, and attention. Transformation is like taking a title shot at project culture - the dominant heavyweight champion. Metrics such as velocity and capacity have their place but don't tell us how happy our customers and users are, what impact our actions have on generating revenue or saving costs, or how fulfilled our teammates are. 
 
-WHAT
-At its heart, the dojo model is about transforming your teams through learning by doing. 
+Process makes a difference only when we treat it as an adaptable toolkit. Our workflow in the dojo is lightweight and mutable based on our context: the kinds of product outcomes you're seeking; the missions of your teams and growth of your people; the health, economic and psychological, of your enterprise. 
 
-WHO
-Before you start you need alignment from three groups: active support and involvement leadership; commitment and engagement from teams engaging in a challenge; and capable coaches who are masters in their respective domains.
+This book explains the benefits of the dojo model. We begin with an overview, "Enter the Dojo," grounding the approach with an overview of the method, principles that ground its design, and the kinds of people you'll need to build a capable team. 
 
-This book explains the benefits of the dojo model, grounding the approach a few principles and roles. It also provides a playbook that you can use to assemble a dojo program appropriate for your organization's transformation program. Our goal was to make this manual mercifully short and useful. We hope you use it as a starting point to design your own dojo program and successfuly execute challenges.
+You'll find a starter playbook that you can use to assemble a dojo program appropriate for your organization's transformation program. 
 
-I like a format of this for this section: 
-
-https://medium.com/the-mission/the-best-sales-pitch-ive-seen-all-year-7fa92afaa248
-
-1. Start with a big, undeniable change that creates stakes.
-2. Name the enemy.
-3. Tease the "Promised Land."
-4. Position capabilities as “magic” for slaying “monsters”
-5. Present your best evidence.
+One of my goals for this book is to find the right blend of short and useful. It's organized as a manual for designing, launching, and running a dojo program. Use it as a starting point on your dojo journey, or use it to mine ideas that supplement what you're already doing.
