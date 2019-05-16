@@ -2,6 +2,8 @@
 
 -# Enter the Dojo
 
+How does a team develop new skills? Do they? Heroes?
+
 A dojo is a place where teams come to develop new skills. It is a place for transformation. 
 
 There are a few distinguishing traits of a dojo that make it special. 
