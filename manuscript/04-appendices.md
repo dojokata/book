@@ -12,7 +12,7 @@ Common success metrics teams might select to support learning outcomes and goals
 - Technical Metrics - Instability, Complexity, etc.
 - Commits / Day
 
-# Community
+# Community and Resources
 
 - Slack channel
 - Blog
