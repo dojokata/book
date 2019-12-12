@@ -38,3 +38,6 @@ Goldratt calls this "pop-cons" for popular configurations.
 - Observability
 - Canaries, Blue-Green, and Reversible Deployments
 - Microservices Architecture
+
+
+## Large Organizations / Scaled Agile
