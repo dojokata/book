@@ -12,7 +12,7 @@ This section is divided into several sub-sections:
 
 1. Challenge Plays - contains practices I use in every challenge I coach. This is your starter kit and if you're new to the Dojo model, you should start here. 
 
-1. Program Plays - a few suggested practices if you're going to scale your Dojo challenge to within a larger organization.
+1. Program Plays - a few suggested practices if you're going to scale your Dojo challenge within a larger organization.
 
 1. Leadership Plays - handy techniques for leaders who support challenge teams.
 
