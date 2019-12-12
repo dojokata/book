@@ -10,7 +10,7 @@ Getting to better products, teams, and culture requires investing in time, money
 
 Process makes a difference only when we treat it as an adaptable toolkit. Our workflow in the dojo is lightweight and mutable based on our context: the kinds of product outcomes you're seeking; the missions of your teams and growth of your people; the health, economic and psychological, of your enterprise. 
 
-This book explains the benefits of the dojo model. We begin with an overview, "Enter the Dojo," grounding the approach with an overview of the method, principles that ground its design, and the kinds of people you'll need to build a capable team. 
+This book explains the benefits of the dojo model. We begin with an overview, "Enter the Dojo," grounding the approach with an overview of the method, principles that guide its design, and the kinds of people you'll need to build a capable team. 
 
 You'll find a starter playbook that you can use to assemble a dojo program appropriate for your organization's transformation program. 
 
