@@ -2,6 +2,29 @@
 
 -# Enter the Dojo
 
+Section Objectives:
+
+1. Expand the definition of the dojo model.
+    1. The common-to-every-dojo parts.
+    1. Our approach to extension and variation. "It depends" as a method.
+1. Introduce the common elements for *all* dojo challenges (in order):
+    1. Principles / Rules - The 10 Bullets
+    1. People - the various personas that it takes to make a challenge happen.
+    1. Space and Material - the role of "space" and what materials you'll need.
+    1. Challenge Workflow Overview - how a challenge plays out, calling out to playbook.
+    1. Metrics - overall philosophy of measurement.
+1. Designing your dojo
+    1. Capabilities, Practices, and Behavioral Changes
+    1. Identifying Outcomes (Aspirational Goals)
+    1. Deriving Commitments and Metrics
+    1. Scaling your dojo.
+    1. Open enrollment (Target) vs. By-program Dojos (Fannie Mae)
+
+
+---
+
+LEGACY CONTENT WE MAY-OR-MAY-NOT-USE
+
 How does a team develop new skills? Do they? Heroes?
 
 A dojo is a place where teams come to develop new skills. It is a place for transformation. 
