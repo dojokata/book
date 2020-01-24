@@ -34,8 +34,6 @@ A coding dojo is a well-established concept in which a group of developers will 
 
 A kata, literally *form* in Japanese, is another concept from the world of programming. A coding kata is something you practice over and over until it becomes rote. There are many examples of Katas often set to electronic music, often to dubstep. Again: valuable but limited to technical skills.
 
-If these terms bother you, you should feel free to call your dojo a space mission or program, accelerator, or something cultural-specific. I use the term dojo because they're known in the industry, not out of any particular affinity for martial arts.
-
 ## What makes dojos work?
 
 Let's start with doesn't work and why. Training workshops, especially the 2-day variety, help build awareness and basic capability, but they fail when attendees go back to their home teams and are confronted with the usual tyranny of the urgent. It's hard to place new knowledge into practice, when you're overcome by the status quo.
