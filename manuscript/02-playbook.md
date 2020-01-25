@@ -2,7 +2,9 @@
 
 > "Adapt what is useful, reject what is useless, and add what is specifically your own." - Bruce Lee
 
-This section shares common plays you might bring into your Dojo challenges. 
+This section shares common plays you might bring into your Dojo challenges.
+
+This playbook gives you the basics. To create and succeed in your endeavors you'll need to customize the playbook, [adding plays that align with your scenario]({#challenge-scenarios}).
 
 The problem with playbooks is people treat them as scripts. Rather, consider using this as a jumping off point to customize your Dojo or Dojo program to your exact needs. Each of these plays is presented as a suggestion in context that will help you satisfy (one or more Dojo principles)[principles]. 
 
