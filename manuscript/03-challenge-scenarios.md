@@ -19,7 +19,7 @@ Goldratt calls this "pop-cons" for popular configurations.
 - ATDD, TDD & Refactoring
 - CI/CD Pipelines
 
-## Technical Debt Management
+## Maneuvering in Legacy Code
 
 - Visualization
 - Prioritization
@@ -43,5 +43,4 @@ Goldratt calls this "pop-cons" for popular configurations.
 - Canaries, Blue-Green, and Reversible Deployments
 - Microservices Architecture
 
-
-## Large Organizations / Scaled Agile
+## Organizations at Scaled
