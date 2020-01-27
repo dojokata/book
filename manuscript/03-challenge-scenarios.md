@@ -43,4 +43,4 @@ Goldratt calls this "pop-cons" for popular configurations.
 - Canaries, Blue-Green, and Reversible Deployments
 - Microservices Architecture
 
-## Organizations at Scaled
+## Organizations at Scale
