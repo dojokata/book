@@ -13,10 +13,10 @@ frontispiece.md
 02.3-playbook-challenge.md
 02.3.1-playbook-challenge-intake.md
 02.3.2-playbook-challenge-framing.md
-02.3.2-playbook-challenge-mapping.md
-02.3.3-playbook-challenge-planning.md
-02.3.4-playbook-challenge-iterating.md
-02.3.5-playbook-challenge-progressing.md
+02.3.3-playbook-challenge-discovery.md
+02.3.4-playbook-challenge-planning.md
+02.3.5-playbook-challenge-iterating.md
+02.3.6-playbook-challenge-progressing.md
 02.4-playbook-leadership.md
 02.5-playbook-scaling.md
 03-challenge-scenarios.md
