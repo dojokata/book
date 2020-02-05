@@ -4,6 +4,7 @@
 
 Section Objectives:
 
+1. Frame the solution.
 1. Expand the definition of the dojo model.
     1. The common-to-every-dojo parts.
     1. Our approach to extension and variation. "It depends" as a method.
