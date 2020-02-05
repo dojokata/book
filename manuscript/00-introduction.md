@@ -2,11 +2,10 @@
 
 Section Objectives:
 
+1. Frame the problem.
 1. The case for a learning organization.
 1. Things we've tried, as an industry, their problems (transformation, 2-day trainings, embedded coaching).
 1. How the dojo helps build learning cultures.
-1. A very brief history up until today.
-1. The audience, purpose, and usage of this book.
 
 ---
 
