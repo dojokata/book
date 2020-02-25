@@ -44,7 +44,7 @@ This is a radical proposition. We're used to agile training and certification th
 
 A dojo challenge refers to a team's time within the dojo.
 
-A dojo a space for immersive learning. A team enters the dojo for a fixed period of time, usually six weeks, and is paired with one or more expert player coaches. We call this a "dojo challenge." On entry, a team sets of goals and success meausures, then iterates rapidly, usually twice a week, on their real backlog, sharing their learnings and reflecting on their journey along the way.
+A dojo is a space for immersive learning. A team enters the dojo for a fixed period of time, usually six weeks, and is paired with one or more expert player coaches. We call this a "dojo challenge." On entry, a team sets of goals and success meausures, then iterates rapidly, usually twice a week, on their real backlog, sharing their learnings and reflecting on their journey along the way.
 
 There's a lot to unpack there. Let's do that step-by-step.
 
