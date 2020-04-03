@@ -26,4 +26,3 @@ To update your branch
 
 Never push to master; that's a publish event that will generate the book and notify purchasers.
 
-
