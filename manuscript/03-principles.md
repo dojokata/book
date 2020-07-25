@@ -20,6 +20,71 @@ It's tempting to describe the Dojo model in static terms, saying, "here are a bu
 
 There are 10 core principles that guide the inception and evolution of a successful Dojo challenge or program. I use these principles to evolve models large and small, not the other way around. 
 
+---
+
+These are the newer principles.
+
+## 1. Prioritize learning over delivery. 
+
+- Failure is an important part of learning #psychological-safety.
+- Learn while doing real work. Align learning goals with delivery of your real backlog.
+- Focus on learning, delivery will follow as a happy side-effect.
+
+**In our dojo...**
+
+* **learning and experimentation are non-optional.** Failure, with reflection, is an important part of the learning process.
+
+* **we move methodically and purposefully as a whole team, understanding why we're doing what we're doing through examples and reflection.** 
+  
+* **we trust that when learning drives behavioral change delivery speed will follow as a natural and happy side-effect.**
+
+## 2. Adopt a product mindset.
+
+- Favor learning through iteration over the speculation inherit in delivering fully polished features.
+- How ready are you to be wrong? Plan with the benefit of feedback.
+
+Product thinking as a manageable entry to systems thinking. Products differ from projects in many ways. Three of the more important differentiators are (1) focus on a user, (2) team continuity, and, (3) how they are measured.
+
+Feedback-driven planning loops: build, measure, learn. The goal of planning is to set a course for the entire team. The goal of feedback is to learn whether or not that course is the right one.
+
+**In our dojo...**
+
+## 3. Create a visual, context-rich environment for team decision making.
+
+- Use maps to share insight and reveal assumptions.
+- Choose the right map for the terrain you're building.
+- High-quality, easy-to-update documentation is a strategically good investment.
+
+**In our dojo...**
+
+* **we place a high importance on the visibility of system status.** This means we can see work-in-progress, maps and our journeys through these maps, metrics dashboards, and the focus of the team at any given point. Not only that, but we can see these things together and presented in the same space, physical or virtual.
+
+* **we both plan to create moments of feedback and make smarter decisions about our ideas with the benefit of feedback.** We want our planning to be effective so we are extreme and serious in shortening feedback loops. Planning chicken, meet feedback egg. We do this to design and develop the right thing for our users and customers.
+
+## 4. Use the buddy system.
+
+- Eliminate internal handoffs in a team.
+- Pairing, Mobbing, Three Amigos, Diverge-Converge.
+- Situational, ad-hoc, and purposeful collaboration across roles.
+
+**In our dojo...**
+
+## 5. Focus predetermines success. Always.
+
+- You get out of a challenge what you put into it. Focus, commitment, engagement - from all parties - predetermines success.
+- Prioritize your learning and supporting your team in its learnings.
+- No invisible work: discovery, delivery, and investment work items are all known and visible.
+
+I like the old Canon motto, "continuous improvement is the result of continuous involvement."
+
+**In our dojo...**
+
+* **balanced teams pursue outcomes that lead to sustainable systems, happy customers, teammate progression, and simple, effective technology.** Delivery of business value is one such outcome. Other outcomes include paying back technical debt and understanding the customer better. Teams are encouraged to find the right balance of goals to pursue, appropriate to their product(s), organization, and themselves.
+
+* **we seek to exchange apathy for grit and inertia for energy.** The dojo model promotes conditions for learning and progression, but it's the commitment by the team, the support of their leaders and organization, and the engagement and skill of your coaches is what will guarantee great outcomes.
+
+---
+
 ## 1. Psychological Safety
 
 Amy Edmundson coined the term psychological safety in her paper [Psychological Safety and Learning Behavior in Work Teams](https://www.notion.so/3748ed50-c6a2-4478-92c0-1dea2f94ab7b): 
